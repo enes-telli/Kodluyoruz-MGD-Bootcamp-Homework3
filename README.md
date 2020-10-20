@@ -21,3 +21,6 @@ Kodluyoruz Mobile Game Development Bootcamp 3rd Homework.
     <td><img src="https://user-images.githubusercontent.com/55920002/96651035-a27d0580-133c-11eb-9c3a-8563e8eeb087.png"/></td>
   </tr>
 </table>
+
+## Can I play the game too?
+Of course! You can play it by running the Homework3.exe file under the build folder.
