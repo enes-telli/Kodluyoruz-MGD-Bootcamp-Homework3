@@ -27,7 +27,7 @@ public class CheckpointController : MonoBehaviour
 
             while (!validPosition)
             {
-                position = new Vector3(coordinates[Random.Range(0, checkpoints.Length)], SPAWNING_HEIGHT, coordinates[Random.Range(0, checkpoints.Length)]);
+                position = new Vector3(coordinates[Random.Range(0, coordinates.Length)], SPAWNING_HEIGHT, coordinates[Random.Range(0, coordinates.Length)]);
                 validPosition = true;
                 if (!list.Contains(position))
                 {
